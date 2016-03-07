@@ -1,9 +1,0 @@
-Bu Proje Suleyman Demirel Universitesi Bilgisayar Muhendisliği Bolumu,
-Sistem Programlama Dersi icin yapılacaktır.
-Linux tabanli isletim sistemleri icin, 
-Python yazilim dili kullanılarak "Webbrowser" uygulamasi gelistirilecektir.
-Uygulamamizin kaynak kodlari ilerleyen haftalarda eklenecektir.
-Proje Gelistiricileri:
-İrfan SAYGILI
-Yasin ŞAHBAZ
-Mehmet AKAR
